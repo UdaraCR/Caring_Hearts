@@ -1,5 +1,8 @@
 # CaringHeartz: Caregiver Task Management System
 
+
+![Colorful Abstract Online Shop Free Logo](https://github.com/UdaraCR/Caring_Hearts/assets/160280777/aeecaa37-47bd-4e39-96a7-a4ae9f992e77)
+
 ## Overview
 Welcome to CaringHeartz, a comprehensive caregiver task management system designed to streamline and enhance the caregiving process. This platform allows caregivers to efficiently manage tasks, track progress, and ensure quality care for those in need. 
 
