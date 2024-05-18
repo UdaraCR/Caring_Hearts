@@ -18,4 +18,5 @@ Welcome to CaringHeartz, a comprehensive caregiver task management system design
 For any questions, suggestions, or issues, please contact us at:
 - **Email**: support@caringheartz.com
 - **Tele**: +44 20 1234 5678
-- Thank you for using CaringHeartz! We hope this system makes caregiving more manageable and efficient.
+
+Thank you for using CaringHeartz! We hope this system makes caregiving more manageable and efficient.
