@@ -5,11 +5,15 @@ Welcome to CaringHeartz, a comprehensive caregiver task management system design
 
 ## Table of Contents
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
+
+## Features
+- Task Management: Create, update, and delete tasks easily.
+- Scheduling: Schedule tasks with reminders to ensure timely completion.
+- Progress Tracking: Monitor the progress of each task.
+- User Management: Manage multiple caregivers and clients with different roles and permissions.
+- Notifications: Receive notifications for task updates and reminders.
+- Reporting: Generate reports to review caregiving activities and performance.
 
 ## Contact
 For any questions, suggestions, or issues, please contact us at:
